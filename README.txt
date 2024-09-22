@@ -1,0 +1,7 @@
+The goal of the system is to accurately measure temperature and humidity in real-time using a Humiture sensor. The measured values are displayed on an LCD screen for easy visualization, as well as in the command window for further monitoring and data analysis. This system provides reliable and efficient environmental control in accordance with the specified parameters.
+
+Required components: 
+
+Humiture – a device that combines the functions of a temperature and humidity sensor. This sensor is useful for accurately measuring and monitoring the ambient temperature and humidity in various applications, including climate control systems, home automation, industrial processes, and other systems that require environmental condition monitoring.
+
+I2C LCD1602 – an LCD display controlled via the I2C interface, which significantly simplifies its integration with microcontroller systems. The advantage of this display lies in its ability to substantially reduce the number of pins required for operation, which is particularly important for microcontrollers with a limited number of GPIO pins. This feature makes it ideal for projects where resource optimization is crucial, enabling more efficient use of the microcontroller and faster system implementation.
